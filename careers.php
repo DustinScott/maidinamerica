@@ -30,8 +30,9 @@
 
 <!--CONTENT-->
 <img src="assets/img/career.png" alt="" style="height: auto; width: 100%; max-height: 70vh; background-repeat: no-repeat; ">
+<h1 class="d-none d-lg-block" style="font-family:'Bree Serif', serif;font-size: 80px; color: white; text-shadow: 2px 2px 5px dimgray; margin-top: -15vh; margin-left: 30%; ">You can be part of our team!</h1>
 
-<div class="jumbotron" style="background-color: #d0ebee;">
+<div class="jumbotron" style="background-color: #d0ebee; padding-top: 5%;">
     <h1 class="display-4 text-center" style="font-family:'Bree Serif', serif;">Get to know us</h1>
     <p class="lead text-center">San Diego family owned and operated business for over 18 years</p>
     <hr class="my-4">
