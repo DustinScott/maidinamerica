@@ -6,7 +6,7 @@
                 <ul class="nav navbar-nav ml-auto">
                     <li class="nav-item" role="presentation"><a class="nav-link" href="index.php#services">Services</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="about.php">About us</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="#">Careers</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="careers.php">Careers</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="#">FAQ's</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="index.php#testimonial">Testimonials</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="tel:+16192915000"><strong>Call us: (619) 291 5000</strong></a></li>
